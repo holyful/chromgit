@@ -1,0 +1,10 @@
+{
+	"manifest_version": 2,
+	"name": "Chromgit",
+	"description": "An extension to your gitlab",
+	"version": "0.1.1",
+	"browser_action": {
+	    "default_icon": "icon.png",
+	    "default_popup": "dashboard.html"
+  	}
+}
